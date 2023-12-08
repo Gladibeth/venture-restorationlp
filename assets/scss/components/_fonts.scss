@@ -1,0 +1,36 @@
+@font-face {
+  font-family: 'Poppins';
+  src: url('../fonts/Poppins-Regular.woff2') format('woff2'),
+      url('../fonts/Poppins-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Moonlite Solid Personal Use';
+  src: url('../fonts/MoonliteSolidPersonalUse.woff2') format('woff2'),
+      url('../fonts/MoonliteSolidPersonalUse.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Cocogoose Classic Trial';
+  src: url('../fonts/CocogooseClassicTrial-Medium.woff2') format('woff2'),
+      url('../fonts/CocogooseClassicTrial-Medium.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Cocogoose Classic Trial ExBold';
+  src: url('..fonts/CocogooseClassicTrial-ExtraBold.woff2') format('woff2'),
+      url('..fonts/CocogooseClassicTrial-ExtraBold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
